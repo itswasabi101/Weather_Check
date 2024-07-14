@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Weather_Check
 =======
 # React + Vite
@@ -15,3 +16,7 @@ Currently, two official plugins are available:
 # Weather_Check
 This a readme file for the project . Some changes were made , some tables were turned 
 >>>>>>> c99bcf70ce31aeab513d9973f4e60b621f88e80d
+=======
+
+# Weather_Check
+>>>>>>> d5bf09e89a30e6fdd2cd274f1be71c8f868848e3
