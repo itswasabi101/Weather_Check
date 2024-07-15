@@ -1,21 +1,27 @@
-Weather Check Web App
+# Weather Check Web App
 
 
-📜 Overview
+📜 Overview :
 Weather Check is a web application built with React, JavaScript, and Vite that allows users to check the current weather for any city. It uses the OpenWeatherMap API to fetch real-time weather data and displays it in a user-friendly interface.
 
-🚀 Features
+#
+
+🚀 Features :
 Check current weather conditions by entering a city name.
 View temperature, weather description, humidity, and wind speed.
 Responsive design for mobile and desktop views.
 Fast and modern build with Vite.
 
-🛠️ Technologies Used
+#
+
+🛠️ Technologies Used :
 Frontend: React, JavaScript
 Build Tool: Vite
 API: OpenWeatherMap API
 
-📦 Installation
+#
+
+📦 Installation :
 Prerequisites
 Make sure you have Node.js and npm installed on your machine.
 
@@ -25,6 +31,8 @@ cd Weather_Check
 
 Install Dependencies :
 npm install
+
+#
 
 🔥 Usage
 Start the Development Server
